@@ -1,4 +1,4 @@
-module github.com/astrogo/fitsio
+module github.com/zmarvel/fitsio
 
 go 1.12
 
